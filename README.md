@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/SamuelMartinsFrancisco">
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=SamuelMartinsFrancisco&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
-    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelMartinsFrancisco&layout=compact&langs_count=16&theme=vision-friendly-dark" />
+    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=SamuelMartinsFrancisco&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
+    <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelMartinsFrancisco&layout=compact&langs_count=16&theme=vision-friendly-dark" />
 </div>
 <!--
 **SamuelMartinsFrancisco/SamuelMartinsFrancisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
