@@ -13,7 +13,7 @@
 
   <br><br>
   
-Tutorial que usei de base para personalizar o perfil:
+Tutorial que usei de base para personalizar o perfil do GitHub:
   - https://youtu.be/TsaLQAetPLU  
   
 <!--
