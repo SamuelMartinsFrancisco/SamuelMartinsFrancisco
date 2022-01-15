@@ -8,7 +8,10 @@
   <a href="https://github.com/SamuelMartinsFrancisco">
     <img height="160px" src="https://github-readme-stats.vercel.app/api?username=SamuelMartinsFrancisco&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
     <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelMartinsFrancisco&layout=compact&langs_count=16&theme=vision-friendly-dark" />
+  </a>
 </div>
+
+  <br><br>
   
 Tutorial que usei de base para personalizar o perfil:
   - https://youtu.be/TsaLQAetPLU  
