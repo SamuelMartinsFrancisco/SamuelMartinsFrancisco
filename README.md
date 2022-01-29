@@ -1,4 +1,4 @@
-# Tudo bem?! Sou o Samuel
+## Tudo bem?! Sou o Samuel
 <h4> Embora ainda não tenha muita coisa, fique à vontade e explore o que fiz! Espero que ajude! </h4>
 
 <br>
@@ -20,6 +20,10 @@ Meu outro perfil no GitHub:
   
 Tutorial que usei de base para personalizar esse README.md:
   - https://youtu.be/TsaLQAetPLU  
+
+<hr>
+
+<div align="center"> <img src="https://user-images.githubusercontent.com/96782173/151663647-b8f03c34-d33f-41b4-b4cb-9cf61c769fe3.jpg" width="550px"> </div>
 
 <!--
 **SamuelMartinsFrancisco/SamuelMartinsFrancisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
