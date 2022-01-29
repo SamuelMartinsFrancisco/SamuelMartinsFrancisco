@@ -3,10 +3,6 @@
 
 <br>
 
-Meu outro perfil no GitHub:
-  - https://github.com/cheddarl
-
-
 <div>
   <a href="https://github.com/SamuelMartinsFrancisco">
     <img height="160px" src="https://github-readme-stats.vercel.app/api?username=SamuelMartinsFrancisco&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
@@ -14,8 +10,13 @@ Meu outro perfil no GitHub:
   </a>
 </div>
 
-  <br><br>
-  <hr>
+<br><br>
+<hr>
+
+Meu outro perfil no GitHub:
+  - https://github.com/cheddarl
+
+<hr>
   
 Tutorial que usei de base para personalizar esse README.md:
   - https://youtu.be/TsaLQAetPLU  
