@@ -16,7 +16,7 @@
 Meu outro perfil no GitHub:
   - https://github.com/cheddarl
 
-<hr>
+<br>
   
 Tutorial que usei de base para personalizar esse README.md:
   - https://youtu.be/TsaLQAetPLU  
