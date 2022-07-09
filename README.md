@@ -1,5 +1,5 @@
 ## Tudo bem?! Sou o Samuel
-<h4> Embora ainda não tenha muita coisa, fique à vontade e explore o que fiz! Espero que ajude! </h4>
+<h4> Embora ainda não tenha muita coisa, fique à vontade e explore o que fiz, espero que ajude! </h4>
 
 <br>
 
