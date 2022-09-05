@@ -12,7 +12,7 @@
 
 <br><br>
   
-Tutorial que usei de base para personalizar esse README.md:
+Tutorial em que me baseei para personalizar esse README.md:
   - https://youtu.be/TsaLQAetPLU
 
 <br><br>
