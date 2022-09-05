@@ -19,7 +19,7 @@ Meu outro perfil no GitHub:
 <br>
   
 Tutorial que usei de base para personalizar esse README.md:
-  - https://youtu.be/TsaLQAetPLU  
+  - <a href="https://youtu.be/TsaLQAetPLU" target="_blank"> https://youtu.be/TsaLQAetPLU </a>
 
 <br><br>
 
